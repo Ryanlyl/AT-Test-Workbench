@@ -1,0 +1,5 @@
+{
+        'ATW0=MatterOnly': '_AT_WLAN_SET_SSID_',
+        'ATW1=0987654321': '_AT_WLAN_SET_PASSPHRASE_',
+        'ATWC': 'Connected'
+}
