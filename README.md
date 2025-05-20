@@ -41,7 +41,7 @@ cd /path/to/script
 ```
 4. Run the script:
 ```bash
-python ./Test_Set.py
+sudo python ./Test_Set.py
 ```
 5. Press Enter to accept the default port name and baud rate when prompted.
 6. Results will be displayed in the terminal and appended to `results.txt`.
